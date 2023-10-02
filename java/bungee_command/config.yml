@@ -38,7 +38,7 @@ listeners:
   force_default_server: true
   forward_ip: true
   server_icon: server-icon.png
-  motd1: '&6An Eaglercraft server'
+  motd1: '&6OneBlockX &r- &7In Development.'
   allow_motd: true
   allow_query: true
   request_motd_cache:
